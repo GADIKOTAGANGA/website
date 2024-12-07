@@ -701,13 +701,21 @@ contact.html
 ```
 
 # OUTPUT
+home.html
+
 ![WhatsApp Image 2024-12-07 at 17 56 27_44163f2d](https://github.com/user-attachments/assets/e05d48a6-917c-484a-9f58-40fbf0893b77)
+
+menu.html
+
 ![WhatsApp Image 2024-12-07 at 17 57 18_506202d2](https://github.com/user-attachments/assets/5740e6cd-2f8d-4ed2-867e-c8e3ab55545b)
+
+admin.html
+
 ![WhatsApp Image 2024-12-07 at 17 55 33_137fc91a](https://github.com/user-attachments/assets/25336c2e-e537-4455-99a4-005bbd03eb3e)
+
+contact.html
+
 ![WhatsApp Image 2024-12-07 at 17 58 35_ea4022a0](https://github.com/user-attachments/assets/49b53752-2dbb-487c-ab5b-9dfe982d0a80)
-
-
-
 
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
